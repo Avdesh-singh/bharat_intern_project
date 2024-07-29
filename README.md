@@ -6,4 +6,4 @@
     linked in link:-
     
 # profile linked in
-link :-linkedin.com/in/awadhesh-singh-chouhan-1324b7256
+ linked in link :-linkedin.com/in/awadhesh-singh-chouhan-1324b7256
